@@ -1,7 +1,7 @@
 import pygame
 import os
 import random
-import neat
+import neat   # neat-python
 
 ai_jogando = True
 geracao = 0
